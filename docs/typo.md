@@ -13,10 +13,9 @@
     <li>For maximum legibility Base Design System uses <span class="font-weight-600">Averta</span> as its primary Font – modifier <code>font-primary</code></li>
     <li>For important headings and paragraphs use <strong class="font-weight-600 font-secondary">Merriweather</strong> – modifier <code>font-secondary</code></li>
 </ul>
+<hr class="border-bottom my-5">
 
-
-!> In order to provide a better UX, please refrain from using subsequent font modifiers.
-
+?> In order to provide a better UX, please refrain from using subsequent font modifiers.
 
 <hr class="border-bottom my-5">
 <h4 class="h4">Font weights</h4>
