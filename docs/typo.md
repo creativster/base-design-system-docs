@@ -15,7 +15,7 @@
 </ul>
 <hr class="border-bottom my-5">
 
-?> In order to provide a better UX, please refrain from using subsequent font modifiers.
+<span class="h6">In order to provide a better UX, please refrain from using subsequent font modifiers.</span>
 
 <hr class="border-bottom my-5">
 <h4 class="h4">Font weights</h4>
