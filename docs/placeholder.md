@@ -9,7 +9,7 @@
     <div class="placeholder"></div>
 <hr class="border-bottom">
 
-Add class `placeholder` to any empty component to show a placeholder.
+?> Add class `placeholder` to any empty component to show a placeholder.
 
 <hr class="border-bottom">
 
