@@ -53,7 +53,7 @@ The <strong class="font-weight-600">Color palette</strong> is composed of pale c
 <hr class="border-bottom my-5">
 
 
-<div><strong class="text-primary">🎨 Customize 🎨</strong>: You can also customize your theme primary colors by changing the variables inside <code>scss/__variables.scss</code> and compiling the <code>scss/theme.scss</code> file with <code><a class="underline" href="https://sass-lang.com/install" target="_blank">https://sass-lang.com/install</a></code> using the command: <code>sass scss/theme.scss base.css</code>, this will give you 2 new files, <code>base.css</code> and <code>base.css.map</code> that you will have to include just like in the 2nd step above.</div><br>
+<div><strong class="text-primary">🎨 Customize 🎨</strong>: You can also customize your theme primary colors by changing the variables inside <code>scss/__variables.scss</code> and compiling the <code>scss/theme.scss</code> file with <code><a class="underline" href="https://sass-lang.com/install" target="_blank">https://sass-lang.com/install</a></code> using the command: <code>sass scss/theme.scss base.css</code>, this will give you 2 new files, <code>base.css</code> and <code>base.css.map</code> that you will have to include in the <code>head</code></div><br>
 
 <hr class="border-bottom my-5">
 
