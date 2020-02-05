@@ -33,6 +33,6 @@
 - [Progress](progress)
 - [Spinner](spinner)
 - [Table](table)
-- [Toast](Toast)
+- [Toast](toast)
 - [Tooltip](tooltip)
 </ul></div>
