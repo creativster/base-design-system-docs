@@ -14,7 +14,9 @@
     <li>For important headings and paragraphs use <strong class="font-weight-600 font-secondary">Merriweather</strong> – modifier <code>font-secondary</code></li>
 </ul>
 
+
 !> In order to provide a better UX, please refrain from using subsequent font modifiers.
+
 
 <hr class="border-bottom my-5">
 <h4 class="h4">Font weights</h4>
