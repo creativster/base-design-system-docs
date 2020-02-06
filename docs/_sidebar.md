@@ -1,5 +1,5 @@
 - <a href="/" class="docsify-logo">
-![](media/bolt.svg ':no-zoom')
+![](media/logo.svg ':no-zoom')
 </a>
 
 - <span class="text-uppercase font-primary text-primary font-weight-600">Foundation</span>

@@ -192,7 +192,7 @@ div.content
 
 aside.sidebar
 {
-    padding-top: 4.75rem;
+    padding-top: 7rem;
     width: 230px;
     border-right: none;
     font-size: 13px;
@@ -248,8 +248,8 @@ body.close .sidebar-toggle
 }
 .docsify-logo > img
 {
-    width: 110px;
-    height: 30px;
+    width: 150px;
+    height: 60px;
 }
 img.no-zoom
 {
