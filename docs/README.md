@@ -35,7 +35,7 @@
 
 <div><strong>1 )</strong> Download the ZIP. <code><a target="_blank" class="underline" href="https://creativster.com/products/base-design-system">https://creativster.com/products/base-design-system</a></code></div><br>
 
-<a href="https://creativster.com/products/base-design-system" class="card bg-white shadow-hover" download><span class="text-primary font-weight-bold font-primary">Base-Design-System.zip</span></a>
+<a href="https://creativster.com/products/base-design-system" class="card bg-white shadow-hover" target="_blank"><span class="text-primary font-weight-bold font-primary">Base-Design-System.zip</span></a>
 
 <hr class="border-bottom">
 
