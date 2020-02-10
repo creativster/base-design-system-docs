@@ -33,9 +33,9 @@
 
 <h2 class="h4">Installation guide</h2><br>
 
-<div><strong>1 )</strong> Download the ZIP from github. <code><a target="_blank" class="underline" href="https://github.com/creativster/base-design-system">https://github.com/creativster/base-design-system</a></code></div><br>
+<div><strong>1 )</strong> Download the ZIP. <code><a target="_blank" class="underline" href="https://creativster.com/products/base-design-system">https://creativster.com/products/base-design-system</a></code></div><br>
 
-<a href="https://github.com/creativster/base-design-system/archive/master.zip" class="card bg-white shadow-hover" download><span class="text-primary font-weight-bold font-primary">Base-Design-System.zip</span></a>
+<a href="https://creativster.com/products/base-design-system" class="card bg-white shadow-hover" download><span class="text-primary font-weight-bold font-primary">Base-Design-System.zip</span></a>
 
 <hr class="border-bottom">
 
